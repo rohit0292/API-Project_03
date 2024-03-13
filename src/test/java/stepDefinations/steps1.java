@@ -24,6 +24,7 @@ public class steps1 extends Utils {
 	static Response response;
 	RequestSpecification req;
 	ResponseSpecification res;
+	
 	TestDataBuild data = new TestDataBuild();
 	
 	
